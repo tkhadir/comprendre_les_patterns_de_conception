@@ -1,1 +1,1 @@
-# comprendre_les_patterns_de_conception
+# Comprendre les patterns de conception
